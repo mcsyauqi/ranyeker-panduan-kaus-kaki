@@ -1,0 +1,6 @@
+site_name: Panduan Kaus Kaki Olahraga
+site_url: https://ranyeker-kaus-kaki-olahraga.readthedocs.io/
+theme:
+  name: readthedocs
+nav:
+  - Panduan: index.md
